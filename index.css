@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+svg {
+  background-color: #000000;
+}
+
+.node {
+  pointer-events: all;
+}
+
+text.titleLabel {
+  font: 30px Cambria;
+}
